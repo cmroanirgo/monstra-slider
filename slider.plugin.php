@@ -5,8 +5,8 @@
  *
  *  @package Monstra
  *  @subpackage Plugins
- *  @author Romanenko Sergey / Awilum
- *  @copyright 2012-2014 Romanenko Sergey / Awilum
+ *  @author cmroanirgo
+ *  @copyright 2016 cmroanirgo / kodespace.com
  *  @version 1.0.0
  *
  */
